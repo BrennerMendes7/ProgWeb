@@ -1,0 +1,226 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#cabecalho {
+    width: 100%;
+    position: fixed;
+    background: #333;
+    padding: 10px;
+    top: 0;
+    background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+}
+
+.barra-nav {
+    margin: 0 auto;
+    padding: 15px;
+    display: inline-block;
+}
+
+.label-prog {
+    margin-left: 10px;
+    margin-right: 30px;
+    color: #333;
+    font-size: 25px;
+}
+
+a {
+    padding-right: 15px;
+    text-decoration: none;
+}
+
+a:link {
+    color: #333;
+}
+
+a:visited {
+    color:#333;
+}
+
+.rodape {
+    text-align: center;
+    margin-top: 65px;
+}
+
+.label-cadastro {
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.container {
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.15);
+    width: 70%;
+    margin: 20px auto;
+    border-radius: 25px;
+}
+
+.form-pf-pj {
+    margin-bottom: 30px;
+}
+
+#cadastro-nome {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-email {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-celular {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-cpf-cnpj {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-nascimento {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-cep {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-rua {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-numero {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-complemento {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-bairro {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-cidade {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-senha-1 {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#cadastro-senha-2 {
+    width: 100%;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    outline: none;
+}
+
+#termo-check-box {
+    margin-top: 15px;
+}
+
+select {
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    height: 30px;
+    width: 160px;
+}
+
+#botaocadastrar {
+    background-color: rgb(38, 182, 38);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 90px;
+    height: 35px;
+    outline: none;
+}
+
+#div-botao-cadastro {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.texto-botao {
+    color: rgba(230, 228, 228, 0.959);
+}
+
+.formulario {
+    padding: 35px;
+}
